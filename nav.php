@@ -32,7 +32,7 @@
                     <a href="cwicz5.php">Ćwiczenie 2</a>
                 </li>
                 <li>
-                    <a href="cwiczget2.php">Ćwiczenie 3</a>
+                    <a href="cwicz3.php">Ćwiczenie 3</a>
                 </li>
                 <li>
                     <a href="pole.php">Ćwiczenie 4</a>
