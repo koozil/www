@@ -1,7 +1,7 @@
 ﻿<?php
   include 'nav.php';
 ?>
-
+	<div class="container- fluid">
   <form method="post" action="wyslij.php">
     <table border="1" cellspacing="2" cellpadding="2" style="font-face: Arial">
       <tr>
@@ -32,4 +32,4 @@
       </tr>
     </table>
   </form>
-
+</div>

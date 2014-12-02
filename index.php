@@ -4,12 +4,22 @@
 		<div class="container- fluid">
   <h1>Specjalizacje- PHP</h1>
 
-  <div class="alert alert-info" role="alert">Poniżej podane zadania są zrobione w niekoniecznie dobrej kolejności.
+  <div class="alert alert-info" role="alert">Podane zadania są zrobione w niekoniecznie dobrej kolejności.
   Więcej informacji w pliku  <a href="https://github.com/koozil/PHP"> README</a> </div>
 <div class="alert alert-info" role="alert">Zawsze możesz zmienić wersję kolorystyczną strony (work in progress)  <a href="indexalt.php">"Więc chodź, pomaluj mi stronkę :) "</a> </div>
 
 
-
+<blockquote>
+  <p>Dziewczyny są jak HTTP:</p>
+<p>403 Forbidden</p>
+<p>405 Method Not Allowed</p>
+<p>402 Payment Required</p>
+<p>406 Not Acceptable</p>
+<p>411 Length Required</p>
+<p>409 Conflict</p>
+<p>410 Gone</p>
+  <footer>Typowy administrator<cite title="Source Title">  </cite></footer>
+</blockquote>
 </div>
 
                 <div class="row">

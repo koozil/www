@@ -1,9 +1,10 @@
 ﻿<?php
   include 'nav.php';
   ?>
+  
 <?php
  
-
+	
   $lancuch1="Koń";
   $lancuch2="ciągnie";
   $lancuch3="wóz";
@@ -75,3 +76,4 @@
   echo ("<br /><br />");
 
 ?>
+</div>

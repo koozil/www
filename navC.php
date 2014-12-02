@@ -12,9 +12,7 @@
 <link rel="icon" href="/favicon.ico">
 </head>
 <body>
-
     <div class="container">
-
       <div class="masthead">
         <h1 class="text-muted">KOZA</h1>
         <div role="navigation">

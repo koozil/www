@@ -1,4 +1,5 @@
-﻿<?php
+﻿	<div class="container- fluid">
+<?php
   include 'nav.php';
   $result = 5+4*12/4;
   print "$result = 5+4*12/4";

@@ -9,14 +9,14 @@
      <script src="../assets/js/ie-emulation-modes-warning.js"></script>
      <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
      <link rel="icon" href="/favicon.ico"></head><body>
-      <div id="wrapper">
+	 <div id="wrapper">
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
-                    <a href="#">
-                        Start Bootstrap
+                    <a href="index.php">
+                       Main() 
                     </a>
                 </li>
                 <li>
@@ -26,20 +26,44 @@
                     <a href="test.php">Php info</a>
                 </li>
                 <li>
-                    <a href="cwicz2.php">Ćwiczenie 1</a>
+                    <a href="pole.php">Ćwiczenie 1</a>
                 </li>
                 <li>
-                    <a href="cwicz5.php">Ćwiczenie 2</a>
+                    <a href="cwicz2.php">Ćwiczenie 2</a>
                 </li>
                 <li>
                     <a href="cwicz3.php">Ćwiczenie 3</a>
                 </li>
                 <li>
-                    <a href="pole.php">Ćwiczenie 4</a>
+                    <a href="cwicz4.php">Ćwiczenie 4</a>
+                </li>
+				
+				
+				<li class="sidebar-brand">
+                    <a href="index.php">
+                       Zadania PDF 
+                    </a>
                 </li>
                 <li>
-                    <a href="post.php">Ćwiczenie 5</a>
+				 <li>
+                    <a href="zad1.php">Zadanie 1</a>
                 </li>
+                <li>
+                    <a href="zad2.php">Zadanie 2</a>
+                </li>
+                <li>
+                    <a href="zad3.php">Zadanie 3</a>
+                </li>
+                <li>
+                    <a href="zad4.php">Zadanie 4</a>
+                </li>
+                <li>
+                    <a href="zad5.php">Zadanie 5</a>
+                </li>
+                <li>
+                    <a href="zad6.php">Zadanie 6</a>
+                </li>
+             
             </ul>
         </div>
         <!-- /#sidebar-wrapper -->
