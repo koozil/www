@@ -1,4 +1,4 @@
-﻿<!Doctype hmtl><html><head><title>KOZA</title>
+﻿<!DOCTYPE html><head><title>KOZA</title>
    <!-- Custom CSS -->
     <link href="css/simple-sidebar.css" rel="stylesheet">
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -12,13 +12,18 @@
 	 <div id="wrapper">
 
         <!-- Sidebar -->
-        <div id="sidebar-wrapper">
-            <ul class="sidebar-nav">
+      
+	  <div id="sidebar-wrapper">
+
+	  <ul class="sidebar-nav">
                 <li class="sidebar-brand">
                     <a href="index.php">
-                       Main() 
+                       Main() 		<button type="button" class="btn btn-primary" data-toggle="collapse.in" data-target="#demo" aria-expanded="false" aria-controls="demo"> Show
+  
+</button>	
                     </a>
                 </li>
+		<div id="demo" class="collapse in">
                 <li>
                     <a href="petla.php">Pętla</a>
                 </li>
@@ -63,7 +68,7 @@
                 <li>
                     <a href="zad6.php">Zadanie 6</a>
                 </li>
-             
+             </div>
             </ul>
         </div>
         <!-- /#sidebar-wrapper -->
