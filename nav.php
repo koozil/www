@@ -18,12 +18,11 @@
 	  <ul class="sidebar-nav">
                 <li class="sidebar-brand">
                     <a href="index.php">
-                       Main() 		<button type="button" class="btn btn-primary" data-toggle="collapse.in" data-target="#demo" aria-expanded="false" aria-controls="demo"> Show
-  
-</button>	
+                       Main() 		
                     </a>
                 </li>
-		<div id="demo" class="collapse in">
+				
+		
                 <li>
                     <a href="petla.php">Pętla</a>
                 </li>
@@ -42,8 +41,10 @@
                 <li>
                     <a href="cwicz4.php">Ćwiczenie 4</a>
                 </li>
-				
-				
+				</ul>
+				</div>
+				  <div id="sidebar-wrapper">
+	  <ul class="sidebar-nav">
 				<li class="sidebar-brand">
                     <a href="index.php">
                        Zadania PDF 
@@ -70,7 +71,7 @@
                 </li>
              </div>
             </ul>
-        </div>
+       
         <!-- /#sidebar-wrapper -->
           <div id="page-content-wrapper">
             <div class="container-fluid">
